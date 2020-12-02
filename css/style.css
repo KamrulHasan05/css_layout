@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+	padding: 0 10px;
+}
+.external{
+	color: #456191;
+	background-color: rgba(200, 20, 130, .5);
+	font-size: 23px;
+	line-height: 48px;
+}
+
+#pro{
+	border: 2px dashed #08e3b3;
+	background-color: #7798b833;
+	line-height: 25px;
+}
+pre {
+    margin-top: 26px;
+    line-height: 22px;
+    background-color: #1245;
+    color: rgb(5 13 65 / 70%);
+    padding: 25px 0;
+    padding-right: 172px;
+}
